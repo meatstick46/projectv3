@@ -1,0 +1,21 @@
+/* html, body {
+  height: 100%;
+  width: 100%;
+} */
+
+.box {
+  width: 100vw;
+  height: 50px;
+  background-color: blue;
+  
+}
+
+#home-image{
+  max-width: 500px;
+  
+}
+
+.contact-info {
+  
+  height: 10em;
+}
